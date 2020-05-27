@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Hugging Face",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1061/1924/products/Hugging_Face_Emoji_2028ce8b-c213-4d45-94aa-21e1a0842b4d_grande.png?v=1571606036",
+    "price": 25,
+    "size": 10
+  },
+  {
+    "id": 2,
+    "name": "Exploding Face",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1061/1924/products/7_grande.png?v=1571606116",
+    "price": 14,
+    "size": 410
+  },
+  {
+    "id": 3,
+    "name": "Dank Meme",
+    "imageUrl": "https://www.pngmart.com/files/11/Dank-Meme-Emoji-PNG-File.png",
+    "price": 18,
+    "size": 140
+  },
+  {
+    "id": 4,
+    "name": "Happy",
+    "imageUrl": "https://www.pngitem.com/pimgs/m/0-9669_happy-emoji-png-high-quality-image-transparent-background.png",
+    "price": 25,
+    "size": 1120
+  },
+  {
+    "id": 5,
+    "name": "Angry Smiley",
+    "imageUrl": "https://w7.pngwing.com/pngs/507/503/png-transparent-emoji-anger-smiley-emoticon-angry-emoji-emoji-poster-orange-angry-emoji-annoyance.png",
+    "price": 18,
+    "size": 1210
+  },
+  {
+    "id": 6,
+    "name": "Ok",
+    "imageUrl": "https://i7.pngguru.com/preview/788/996/847/emojipedia-ok-pianoplay-pop-mix-2-game-emoji.jpg",
+    "price": 18,
+    "size": 120
+  },
+  {
+    "id": 7,
+    "name": "Thinking",
+    "imageUrl": "https://icon2.cleanpng.com/20180330/spw/kisspng-iphone-emoji-apple-ios-11-emojis-5abe1fe31ed9c6.7613688515224094431264.jpg",
+    "price": 35,
+    "size": 110
+  },
+  {
+    "id": 8,
+    "name": "Domain Start",
+    "imageUrl": "https://img.favpng.com/25/17/23/emoji-domain-star-emoticon-apple-color-emoji-png-favpng-DegDLMQcAAM5VT2LWPWFwHsRu.jpg",
+    "price": 14,
+    "size": 105
+  },
+  {
+    "id": 9,
+    "name": "Secret",
+    "imageUrl": "https://cdn.imgbin.com/10/10/24/imgbin-secret-emojis-1-smiley-emoticon-goodbye-emoji-rkK9a7Ws80t5xCBYHC29Mm6w8.jpg",
+    "price": 16,
+    "size": 102
+  }
+]
